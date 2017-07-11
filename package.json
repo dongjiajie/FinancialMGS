@@ -1,0 +1,23 @@
+{
+  "name": "financialmgs",
+  "version": "1.0.0",
+  "description": "- Koa.js\r - Vue.js\r - Mongo\r - GraphQL\r - Docker",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CNBlackJ/FinancialMGS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CNBlackJ/FinancialMGS/issues"
+  },
+  "homepage": "https://github.com/CNBlackJ/FinancialMGS#readme"
+}
